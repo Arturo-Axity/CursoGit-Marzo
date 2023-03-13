@@ -1,1 +1,3 @@
-mi segundo archido de git
+mi segundo archivo de git
+
+Estoy aprendiendo a utilizar git
